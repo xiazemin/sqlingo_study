@@ -1,0 +1,4 @@
+github.com/go-sql-driver/mysql v1.5.0 h1:ozyZYNQW3x3HtqT1jira07DN2PArx2v7/mN66gGcHOs=
+github.com/go-sql-driver/mysql v1.5.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=
+github.com/lqs/sqlingo v0.10.10 h1:ye/c1BGMPswwGApRTPm6gNWbdkCvNojXgTIltqwzkLE=
+github.com/lqs/sqlingo v0.10.10/go.mod h1:dD8dcJH3syaTROM/PM64tWgGa3Yzo8hUHh22+pI5WoQ=
