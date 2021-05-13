@@ -1,3 +1,6 @@
 [submodule "sqlingo"]
 	path = sqlingo
 	url = https://github.com/lqs/sqlingo
+[submodule "gorm"]
+	path = gorm
+	url = https://github.com/go-gorm/gorm

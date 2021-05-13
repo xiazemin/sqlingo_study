@@ -10,3 +10,6 @@ https://www.v2ex.com/t/567482
 
 git submodule add https://github.com/lqs/sqlingo
 
+git submodule add https://github.com/go-gorm/gorm
+
+git submodule add https://github.com/go-sql-driver/mysql/
